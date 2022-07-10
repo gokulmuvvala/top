@@ -1,0 +1,7 @@
+Bulding blocks
+exploring caves
+spread sheet /// 2nd week
+soldiers ///////(BFS on 2d grid) question 10 github
+calculator addition 
+calculator subtraction 
+
